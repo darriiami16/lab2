@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     int a;
-    cout << "enter (int): ";
+    cout << "enter a(int): ";
     cin >> a;
     cout << "test" << endl;
     cout << "a=" << a << endl;
